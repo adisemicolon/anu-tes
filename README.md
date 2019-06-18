@@ -3,4 +3,5 @@
 # edit dikit
 #edit lagi 
 
-nambah edit
+ambeah edit
+edit lg
